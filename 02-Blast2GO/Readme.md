@@ -29,9 +29,11 @@ After downloading and retrieving database protein sequences, they were packed to
 
 ## Mapping & Scoring
 After blast search, top blast hits were extracted from the result, and mapped to their annotations. Scoring was done according to the original algorithm, with:
-	_𝑆𝑐𝑜𝑟𝑒_= max(_𝑆𝑖𝑚𝑖𝑙𝑎𝑟𝑖𝑡𝑦_ × _𝐸𝐶𝑤_) + _#𝑆𝑢𝑏𝑡𝑒𝑟𝑚_ × _𝐺𝑂𝑤_
-	* _#𝑆𝑢𝑏𝑡𝑒𝑟𝑚_ is the number of their offspring terms with blast hits.
-	* _Ecw_ is a weight given to annotations based on their evidence codes (reliability).
+
+	𝑆𝑐𝑜𝑟𝑒= max(𝑆𝑖𝑚𝑖𝑙𝑎𝑟𝑖𝑡𝑦 × 𝐸𝐶𝑤) + #𝑆𝑢𝑏𝑡𝑒𝑟𝑚 × 𝐺𝑂𝑤
+	* #𝑆𝑢𝑏𝑡𝑒𝑟𝑚 is the number of their offspring terms with blast hits.
+	* Ecw is a weight given to annotations based on their evidence codes (reliability).
+
 The scores were then filtered with a manually selected threshold. Different thresholds could be set for different categories of GO terms (BP, CC or MF). All parameters are defined by the file in "03-Parameters". If you want to test different combination of parameters, use the bash shell script "Run_blast2go.sh" in "01-Blast2GO-R" to do the job.
 
 ## Redundancy removal of the results
