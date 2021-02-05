@@ -1,0 +1,168 @@
+name,tracking_id,ver5,pathway
+MpTPS5,Mapoly0046s0122.1,Mp7g00020.1,GA biosynthesis
+MpCPS(TPS3),Mapoly0015s0008.1,Mp2g07200.1,GA biosynthesis
+MpTPS6,Mapoly0050s0107.1,Mp3g13150.1,GA biosynthesis
+MpTPS2,Mapoly0207s0001.1,Mp2g24640.1,GA biosynthesis
+MpTPS7,Mapoly0221s0001.1,Mp2g24630.1,GA biosynthesis
+MpKS(TPS4),Mapoly0097s0049.1,Mp6g05950.1,GA biosynthesis
+MpTPS1,Mapoly0167s0025.1,Mp6g05430.1,GA biosynthesis
+MpKOL1,Mapoly0140s0010.1,Mp3g18320.1,GA biosynthesis
+MpKOL2,Mapoly0130s0003.1,Mp2g01950.1,GA biosynthesis
+MpKOL3,Mapoly0130s0002.1,Mp2g01940.1,GA biosynthesis
+MpKAOL1,Mapoly0020s0131.1,Mp4g23680.1,GA biosynthesis
+MpKAOL2,Mapoly0002s0331.1,Mp1g25410.1,GA biosynthesis
+MpKAOL3,Mapoly0023s0011.1,Mp2g10420.1,GA biosynthesis
+MpGID1L1,Mapoly0001s0537.1,Mp1g22010.1,GA signaling
+MpGID1L2,Mapoly0003s0183.1,Mp7g11710.1,GA signaling
+MpGID1L3,Mapoly0003s0300.1,Mp7g12920.1,GA signaling
+MpGID1L4,Mapoly0013s0114.1,Mp8g06780.1,GA signaling
+MpGID1L5,Mapoly0013s0116.1,Mp8g06760.1,GA signaling
+MpGID1L6a,Mapoly0026s0096.1,Mp2g12730.1,GA signaling
+MpGID1L6b,Mapoly0026s0098.1,-,GA signaling
+MpGID1L7,Mapoly0055s0044.1,Mp2g20050.1,GA signaling
+MpGID1L8,Mapoly0133s0031.1,Mp5g03560.1,GA signaling
+MpDELLA,Mapoly0058s0044.1,Mp5g20660.1,GA signaling
+MpDLP,Mapoly0003s0271.1,Mp7g12630.1,GA signaling
+MpGID2,Mapoly0043s0052.1,Mp1g06600.1,GA signaling
+MpPHY,Mapoly0122s0054.1,Mp2g16090.1,far-red response
+MpPIF,Mapoly0039s0059.1,Mp3g17350.1,far-red response
+MpBNB,Mapoly0024s0106.1,Mp3g23300.1,far-red response
+MpSABATH1,Mapoly0038s0025.1,Mp6g18160.1,SABATH
+MpSABATH2,Mapoly0003s0211.1,Mp7g11980.1,SABATH
+MpSABATH3,Mapoly0130s0039.1,Mp2g02320.1,SABATH
+MpSABATH4,Mapoly0054s0007.1,Mp4g15440.1,SABATH
+MpSABATH5,Mapoly0125s0011.1,Mp4g06660.1,SABATH
+MpSABATH6,Mapoly0054s0010.1,Mp4g15450.1,SABATH
+MpSABATH7,Mapoly0010s0035.1,Mp5g24210.1,SABATH
+MpSABATH8,Mapoly0007s0125.1,Mp3g01310.1,SABATH
+MpSABATH9,Mapoly0071s0088.1,Mp5g15220.1,SABATH
+MpSABATH10,Mapoly0092s0080.1,Mp5g12260.1,SABATH
+MpSABATH11,Mapoly0010s0033.1,Mp5g24220.1,SABATH
+MpMYB02,Mapoly0006s0226.1,Mp3g07510.1,Flavonoid biosynthesis
+MpMYB14,Mapoly0073s0038.1,Mp5g19050.1,Flavonoid biosynthesis
+DAHPS,Mapoly0008s0188.1,Mp8g10340.1,Flavonoid biosynthesis
+DHQS,Mapoly0031s0094.1,Mp2g04380.1,Flavonoid biosynthesis
+DHQD,Mapoly0047s0090.1,Mp6g14360.1,Flavonoid biosynthesis
+SK,Mapoly0035s0139.1,Mp6g03600.1,Flavonoid biosynthesis
+SK,Mapoly0089s0033.1,Mp3g21830.1,Flavonoid biosynthesis
+ESPS,Mapoly0034s0104.1,Mp6g04140.1,Flavonoid biosynthesis
+PAS2,Mapoly0034s0103.1,Mp6g04150.1,Flavonoid biosynthesis
+PAS2,Mapoly0010s0013.1,Mp5g24450.1,Flavonoid biosynthesis
+CS,Mapoly0007s0052.1,Mp3g00560.1,Flavonoid biosynthesis
+CM,Mapoly0028s0048.1,Mp2g01030.1,Flavonoid biosynthesis
+PAT,Mapoly0058s0104.1,Mp5g21220.1,Flavonoid biosynthesis
+ADT,Mapoly0024s0086.1,Mp3g23090.1,Flavonoid biosynthesis
+ADT,Mapoly0024s0087.1,Mp3g23100.1,Flavonoid biosynthesis
+ADT,Mapoly0071s0057.1,Mp5g15520.1,Flavonoid biosynthesis
+ADT,Mapoly0204s0012.1,Mp8g09370.1,Flavonoid biosynthesis
+C3'H,Mapoly0037s0087.1,Mp3g11100.1,Flavonoid biosynthesis
+PAL,Mapoly0005s0086.1,Mp1g05220.1,Flavonoid biosynthesis
+PAL,Mapoly0005s0089.1,Mp1g05190.1,Flavonoid biosynthesis
+PAL,Mapoly0009s0173.1,Mp7g14880.1,Flavonoid biosynthesis
+PAL,Mapoly0014s0211.1,Mp1g10150.1,Flavonoid biosynthesis
+PAL,Mapoly0044s0114.1,Mp4g03590.1,Flavonoid biosynthesis
+PAL,Mapoly0070s0061.1,Mp4g14210.1,Flavonoid biosynthesis
+PAL,Mapoly0070s0065.1,Mp4g14170.1,Flavonoid biosynthesis
+PAL,Mapoly0070s0068.1,Mp4g14140.1,Flavonoid biosynthesis
+PAL,Mapoly0070s0071.1,Mp4g14110.1,Flavonoid biosynthesis
+PAL,Mapoly0132s0049.1,Mp4g10060.1,Flavonoid biosynthesis
+C4H,Mapoly0081s0008.1,Mp8g05070.1,Flavonoid biosynthesis
+C4H,Mapoly0081s0009.1,Mp8g05080.1,Flavonoid biosynthesis
+C4H,Mapoly0163s0018.1,Mp6g00020.1,Flavonoid biosynthesis
+4CL,Mapoly0002s0100.1,Mp1g27780.1,Flavonoid biosynthesis
+4CL,Mapoly0005s0102.1,Mp1g05060.1,Flavonoid biosynthesis
+4CL,Mapoly0197s0014.1,Mp5g01200.1,Flavonoid biosynthesis
+CHS,Mapoly0009s0174.1,Mp7g14890.1,Flavonoid biosynthesis
+CHS,Mapoly0009s0178.1,Mp7g14930.1,Flavonoid biosynthesis
+CHS,Mapoly0009s0179.1,Mp7g14940.1,Flavonoid biosynthesis
+CHS,Mapoly0009s0180.1,Mp7g14960.1,Flavonoid biosynthesis
+CHS,Mapoly0014s0122.1,Mp1g11030.1,Flavonoid biosynthesis
+CHS,Mapoly0020s0082.1,Mp4g23190.1,Flavonoid biosynthesis
+CHS,Mapoly0021s0159.1,Mp2g07060.1,Flavonoid biosynthesis
+CHS,Mapoly0040s0121.1,Mp2g20910.1,Flavonoid biosynthesis
+CHS,Mapoly0041s0118.1,Mp4g18370.1,Flavonoid biosynthesis
+CHS,Mapoly0044s0115.1,Mp4g03580.1,Flavonoid biosynthesis
+CHS,Mapoly0055s0104.1,Mp2g19480.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0036.1,Mp4g14450.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0060.1,Mp4g14220.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0062.1,Mp4g14200.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0063.1,Mp4g14190.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0064.1,Mp4g14180.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0067.1,Mp4g14150.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0070.1,Mp4g14120.1,Flavonoid biosynthesis
+CHS,Mapoly0070s0072.1,Mp4g14100.1,Flavonoid biosynthesis
+CHS,Mapoly0072s0054.1,Mp2g22780.1,Flavonoid biosynthesis
+CHS,Mapoly0072s0061.1,Mp2g22700.1,Flavonoid biosynthesis
+CHS,Mapoly0072s0062.1,Mp2g22690.1,Flavonoid biosynthesis
+CHS,Mapoly0087s0058.1,Mp4g05310.1,Flavonoid biosynthesis
+CHS,Mapoly0858s0001.1,Mp8g18680.1,Flavonoid biosynthesis
+KCS,Mapoly0005s0001.1,Mp1g06080.1,Flavonoid biosynthesis
+KCS,Mapoly0055s0025.1,Mp2g20240.1,Flavonoid biosynthesis
+KCS,Mapoly0055s0027.1,Mp2g20220.1,Flavonoid biosynthesis
+CHI,Mapoly0167s0012.1,Mp6g05290.1,Flavonoid biosynthesis
+CHI-L,Mapoly0175s0004.1,Mp5g01410.1,Flavonoid biosynthesis
+MpPPO1,Mapoly0001s0379.1,Mp1g20430.1,PPO
+MpPPO2,Mapoly0021s0034.1,Mp2g05780.1,PPO
+MpPPO3,Mapoly0021s0035.1,Mp2g05790.1,PPO
+MpPPO4,Mapoly0021s0037.1,Mp2g05810.1,PPO
+MpPPO5,Mapoly0021s0041.1,Mp2g05850.1,PPO
+MpPPO6,Mapoly0024s0005.1,Mp3g22270.1,PPO
+MpPPO7,Mapoly0024s0006.1,Mp3g22280.1,PPO
+MpPPO8,Mapoly0032s0136.1,Mp5g14430.1,PPO
+MpPPO9,Mapoly0032s0137.1,Mp5g14440.1,PPO
+MpPPO10,Mapoly0038s0001.1,Mp6g17930.1,PPO
+MpPPO11,Mapoly0038s0002.1,Mp6g17920.1,PPO
+MpPPO12,Mapoly0038s0003.1,-,PPO
+MpPPO13,Mapoly0038s0004.1,-,PPO
+MpPPO14,Mapoly0038s0112.1,Mp6g19030.1,PPO
+MpPPO15,Mapoly0040s0078.1,Mp2g21360.1,PPO
+MpPPO16,Mapoly0071s0077.1,-,PPO
+MpPPO17,Mapoly0071s0078.1,Mp5g15320.1,PPO
+MpPPO18,Mapoly0073s0001.1,-,PPO
+MpPPO19,Mapoly0074s0082.1,Mp7g03140.1,PPO
+MpPPO20,Mapoly0080s0086.1,Mp4g02130.1,PPO
+MpPPO21,Mapoly0084s0022.1,Mp5g17720.1,PPO
+MpPPO22,Mapoly0084s0086.1,Mp5g18380.1,PPO
+MpPPO23,Mapoly0091s0043.1,Mp6g21120.1,PPO
+MpPPO24,Mapoly0094s0040.1,Mp2g17720.1,PPO
+MpPPO25,Mapoly0097s0009.1,-,PPO
+MpPPO26,Mapoly0106s0029.1,Mp5g21700.1,PPO
+MpPPO27,Mapoly0109s0017.1,Mp2g16760.1,PPO
+MpPPO28,Mapoly0117s0055.1,Mp5g16490.1,PPO
+MpPPO29,Mapoly0117s0058.1,Mp5g16500.1,PPO
+MpPPO30,Mapoly0121s0016.1,Mp3g24080.1,PPO
+MpPPO30,Mapoly0121s0017.1,Mp3g24070.1,PPO
+MpPPO31,Mapoly0121s0018.1,Mp3g24060.1,PPO
+MpPPO32,Mapoly0121s0019.1,Mp3g24050.1,PPO
+MpPPO33,Mapoly0121s0020.1,Mp3g24040.1,PPO
+MpPPO34,Mapoly0134s0001.1,Mp5g19430.1,PPO
+MpPPO35,Mapoly0134s0050.1,-,PPO
+MpPPO36,Mapoly0145s0006.1,Mp6g17800.1,PPO
+MpPPO37,Mapoly0145s0008.1,Mp6g17780.1,PPO
+MpPPO38,Mapoly0145s0009.1,Mp6g17770.1,PPO
+MpPPO39,Mapoly0145s0011.1,Mp6g17750.1,PPO
+MpPPO40,Mapoly0145s0012.1,Mp6g17740.1,PPO
+MpPPO41,Mapoly0149s0028.1,Mp3g20620.1,PPO
+MpPPO42,Mapoly0206s0001.1,Mp5g19980.1,PPO
+MpPPO43,Mapoly0212s0001.1,Mp3g03250.1,PPO
+MpPPO44,Mapoly0212s0002.1,Mp3g03240.1,PPO
+MpPPO45,Mapoly0220s0002.1,Mp5g21450.2,PPO
+MpPPO46,Mapoly0237s0003.1,-,PPO
+MpPPO47,Mapoly0237s0004.1,Mp6g17880.1,PPO
+MpPPO48,Mapoly0237s0005.1,Mp6g17890.1,PPO
+MpPPO49,Mapoly0244s0001.1,Mp3g03310.1,PPO
+MpPPO50,Mapoly0244s0002.1,Mp3g03330.1,PPO
+MpPPO51,Mapoly0244s0003.1,Mp3g03340.1,PPO
+MpPPO52,Mapoly0248s0003.1,Mp6g02130.1,PPO
+MpPPO53,Mapoly0266s0001.1,Mp5g20020.1,PPO
+MpPPO54,Mapoly0266s0004.1,Mp5g19990.1,PPO
+MpPPO55,Mapoly0391s0001.1,Mp6g17910.1,PPO
+MpPPO56,Mapoly0595s0001.1,Mp6g19020.1,PPO
+MpPPO57,Mapoly0654s0001.1,-,PPO
+MpPPO58,Mapoly0967s0001.1,Mp6g17860.1,PPO
+MpPPO59,Mapoly0994s0001.1,Mp6g17940.1,PPO
+MpPPO60,Mapoly2340s0001.1,-,PPO
+MpPPO61,Mapoly2776s0001.1,Mp3g03280.1,PPO
+MpPPO62,Mapoly3313s0001.1,Mp5g21460.1,PPO
+MpPPO63,Mapoly3320s0001.1,Mp5g19820.1,PPO
+MpPPO64,MapolyY_B0028.1,MpVg00230.1,PPO

@@ -1,0 +1,28 @@
+EC	Description	Category	Default
+EXP	Inferred from experiment	Experimental	1
+IDA	Inferred from direct assay	Experimental	1
+IPI	Inferred from physical interaction	Experimental	1
+IMP	Inferred from mutant phenotype	Experimental	1
+IGI	Inferred from genetic interaction	Experimental	1
+IEP	Inferred from expression pattern	Experimental	1
+HTP	Inferred from High Throughput Experiment 	Experimental - High Throughput	1
+HDA	Inferred from High Throughput Direct Assay 	Experimental - High Throughput	1
+HMP	Inferred from High Throughput Mutant Phenotype 	Experimental - High Throughput	1
+HGI	Inferred from High Throughput Genetic Interaction 	Experimental - High Throughput	1
+HEP	Inferred from High Throughput Expression Pattern 	Experimental - High Throughput	1
+IBA	Inferred from biological aspect of ancestor	Phylogenetically-inferred	0.8
+IBD	Inferred from biological aspect of descendant	Phylogenetically-inferred	0.8
+IKR	Inferred from key residues	Phylogenetically-inferred	0.8
+IRD	Inferred from rapid divergence	Phylogenetically-inferred	0.7
+ISS	Inferred from sequence or structural similarity	Computational analysis	0.8
+ISO	Inferred from sequence orthology	Computational analysis	0.8
+ISA	Inferred from sequence alignment	Computational analysis	0.8
+ISM	Inferred from sequence model	Computational analysis	0.8
+IGC	Inferred from genome context	Computational analysis	0.7
+RCA	Inferred from reviewed computational analysis	Computational analysis	0.8
+TAS	Traceable author statement	Author statement	0.9
+NAS	Non-traceable author statement	Author statement	0.8
+IC	Inferred by curator	Curator statement	0.9
+ND	No biological data available	Curator statement	0.5
+IEA	Inferred from electronic annotation	Electronic annotation 	0.5
+NR	Not recorded	Not recorded	0
